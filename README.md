@@ -1,4 +1,4 @@
-# Locally_Connected_NeuralNet
+# Locally Connected NeuralNet
 Locally connected neural nerwork built on top of Keras using a sequential model
 
 ### Authors
